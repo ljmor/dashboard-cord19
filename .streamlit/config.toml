@@ -1,0 +1,13 @@
+[theme]
+# Identidad visual del notebook (Fase IV) aplicada al tema de Streamlit
+primaryColor = "#1D6FB8"
+backgroundColor = "#F4F7FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#14213D"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
