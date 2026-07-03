@@ -5,4 +5,4 @@ __pycache__/
 
 # Datos pesados (regenerables): el CSV crudo y el parquet derivado
 context/metadata.csv
-data/*.parquet
+# data/*.parquet
